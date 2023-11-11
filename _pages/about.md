@@ -1,20 +1,50 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Microwave System Lab @ Southeast University"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Yu, Chao (余超), Professor, Ph.D's Advisor
+======
+We are actively recruiting PhD and Master students. Self-motivated students with relevant research interest (Digital Predistortion, power Amplifier design, RF front-ends, etc.) are highly encouraged to contact me via email.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+** Short Bio **
+### State Key Laboratory of Millimeter Waves, Southeast University, China
+
+Professor           (Apr. 2021 to present)
+Associate Professor (Jun. 2015 to Apr. 2021)
+
+### University College Dublin, Ireland
+
+Researcher          (Mar. 2014 to May 2015)
+PhD in Electrical Engineering, 2014
+
+### Southeast University, China
+Master in Electrical Engineering, 2010
+Bachelor of Information Engineering, 2007
+
+** Research Area **
+Software and hardware co-design of microwave systems
+Design of 5G mmWave massive MIMO phased-array systems
+Linearization techniques for microwave/mmWave PAs
+
+** Honors & Awards **
+* IEEE MTT-S Microwave Prize
+* National Science Fund for Excellent Young Scholars (国家优青)
+* National Scholarship for Outstanding Self-Funded Foreign Students (国家优秀留学生大奖)
+
+** Teaching **
+RF Circuit Modeling and CAD (Bilingual, Undergraduate Course)
+
+Research Topics
+======
+Our research focuses on RF front-ends for wireless communications, including the design of RF hardware and algorithms. On one hand, massive multiple-input multiple-output (massive MIMO) technology has been widely used in the fifth-generation mobile communication systems (5G) in order to achieve higher data rates. On the other hand, the available spectrum in sub-6 GHz has become increasingly scarce, which boosts the development of millimeter-wave (mmWave) transmission. Therefore, mmWave massive MIMO technology has been a competitive and attractive candidate in 5G. It can be applied in many fields such as radar for automobiles, mmWave imaging, inter-satellite and satellite-ground communication links. In view of this, we aims at better performance of mmWave massive MIMO front-ends, which is divided into two parts: **hardware** and **algorithms**. 
 
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
